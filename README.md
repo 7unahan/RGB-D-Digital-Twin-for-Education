@@ -8,4 +8,6 @@ IMAGE
 
 # Acknowledge
 
-# BibTeX
+# Citation
+
+If you find our work useful for your research, please consider citing our paper:
