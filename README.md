@@ -1,2 +1,4 @@
-# RGB-D-Digital-Twin-for-Education
-Digital Twin project with RGB-D camera for education purpose
+**DiTEd**
+The official implementation of our "where?" paper "RGB-D Camera-Enabled Digital Twin Dataset for Education"
+
+ABSTRACT
