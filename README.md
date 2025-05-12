@@ -4,7 +4,8 @@ The official implementation of our "where?" paper **"RGB-D Camera-Enabled Digita
 
 # ABSTRACT
 
-IMAGE
+
+![dijital ikiz2](https://github.com/user-attachments/assets/077b6e70-c363-4e24-8b58-abb85f9e3658)
 
 # Acknowledge
 
