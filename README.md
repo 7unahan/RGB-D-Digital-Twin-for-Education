@@ -10,6 +10,13 @@ The concept of a Digital Twin originated in 1997, but its foundations date back 
 
 ![dijital ikiz2](https://github.com/user-attachments/assets/077b6e70-c363-4e24-8b58-abb85f9e3658)
 
+# Dataset
+You can reach us for any question/problem:
+tunahanp@sabanciuniv.edu
+arin.ikizogullari@sabanciuniv.edu
+cinar.yetisen@sabanciuniv.edu
+hasan.dida@sabanciuniv.edu
+
 # Acknowledge
 
 # Citation
