@@ -2,6 +2,9 @@
 
 The official implementation of our "where?" paper **"RGB-D Camera-Enabled Digital Twin Dataset for Education"**
 
+![Demo Animation](img/class_.gif)
+
+
 **WILL BE UPDATED SOON**
 
 # ABSTRACT
