@@ -12,6 +12,8 @@ The concept of a Digital Twin originated in 1997, but its foundations date back 
 
 ## 📦 Dataset
 
+📥 **Download the dataset**: [Google Drive Link](https://drive.google.com/drive/folders/1osEjJuQO8dxTrazBdJmWWjjLjE72vKKE?usp=drive_link)
+
 You can reach us for any question or problem related to the dataset:
 
 - 📧 [tunahanp@sabanciuniv.edu](mailto:tunahanp@sabanciuniv.edu)
